@@ -15,7 +15,7 @@
 
 Olá, Me chamo Arthur👨‍💻. </br>
 </br>
-Sou estudante Front End, brasileiro e 19 anos de muita curiosidade sobre <i>a vida, a verdade e o universo</i>🌎. </br>
+Sou estudante Front End, brasileiro e 19 anos de muita curiosidade e interesse no mundo tech🚀. </br>
 </br>
 <b> Amante de filmes, séries e animes📺, jogador de vôlei🏐 e não dispenso um bom e velho café☕ </b> 
 
