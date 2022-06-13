@@ -21,7 +21,7 @@ Sou estudante Front End, brasileiro e 19 anos de muita curiosidade e interesse n
 
 - 💻 Atualmente estou estudando HTML e CSS
 - 📖 Aprendendo qualquer coisa que me gere interesse e curiosidade
-- 💞️ Metas 2022: Javascript / SASS / metodologia BEM
+- 💞️ Metas 2022: Javascript / SASS
 
 
 -------------------------------------------------------------
