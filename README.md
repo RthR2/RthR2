@@ -1,31 +1,30 @@
-### 👋 Hello World! Sou Arthur!
-<a target="_blank" href="mailto:aarthurpatriarca@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5562993253334">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-<a target="_blank" href="https://www.linkedin.com/in/arthurpatriarca">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+### 👋 Hello World! Sou Arthur Patriarca!
+
+---
+
 </br>
+Sou estudante Front End, brasileiro e 19 anos </br>
 </br>
+<b>Amante de tecnologiajogador de vôlei 🏐 e não dispenso um bom e velho café ☕ </b> 
 
--------------------------------------------------------------
+##
 
-Olá, Me chamo Arthur👨‍💻. </br>
-</br>
-Sou estudante Front End, brasileiro e 19 anos de muita curiosidade e interesse no mundo tech🚀. </br>
-</br>
-<b> Amante de filmes, séries e animes📺, jogador de vôlei🏐 e não dispenso um bom e velho café☕ </b> 
+  
+<div align="center">
+  <img align="center" alt="HTML" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="JS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+</div>
+  <br>
+  
+<div align="center">
+  <a href="https://www.linkedin.com/in/arthurpatriarca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:aarthurpatriarca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href = "https://api.whatsapp.com/send?phone=5562993253334"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+</div>
 
-- 💻 Atualmente estou estudando HTML e CSS
-- 📖 Aprendendo qualquer coisa que me gere interesse e curiosidade
-- 💞️ Metas 2022: Javascript / SASS
-
-
--------------------------------------------------------------
-
-#### Linguagens e Ferramentas
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<div align="center">
+  <a href="https://github.com/RthR2">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RthR2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RthR2&layout=compact&langs_count=7&theme=dracula"/>
+</div>
