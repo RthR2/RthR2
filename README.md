@@ -3,7 +3,7 @@
 <h2 align="center">👋 Hello World! Sou Arthur Patriarca!</h2>
 
 <p align="center">
-Sou estudante Front End, brasileiro e tenho 19 anos de muita curiosidade sobre diveeersas coisas😏 </br>
+Sou estudante Front End, brasileiro e tenho 19 anos de muita curiosidade sobre diveeersas coisas💜 </br>
 <b>Amante de tecnologia 🚀, jogador de vôlei 🏐 e não dispenso um bom café ☕ </b> 
 </p>
 
@@ -27,5 +27,5 @@ Sou estudante Front End, brasileiro e tenho 19 anos de muita curiosidade sobre d
 <div align="center">
   <a href="https://github.com/RthR2">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RthR2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RthR2&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RthR2&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
