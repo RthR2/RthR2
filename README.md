@@ -2,8 +2,8 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/93809764/174465088-40b6088a-50e9-4a55-8f77-c7388cdccb92.jpg"/></p>
 
 <p align="center">
-Sou estudante Front End à alguns meses, brasileiro e 19 anos de muuuita curiosidade sobre diversas coisas💜 </br>
-<b>Amante de tecnologia 🚀, jogador de vôlei 🏐 e não dispenso um bom café ☕ </b> 
+Sou estudante Front-end à alguns meses, autodidata, curioso nato e amante por tecnologia🚀 </br>
+<b>Entusiasta em UX e UI design 🎨, jogador de vôlei 🏐 e não dispenso um bom café ☕ </b> 
 </p>
 
 
