@@ -1,5 +1,5 @@
 <!--
-<!-- <p align="center"><img src="https://user-images.githubusercontent.com/93809764/173983658-2238a8ef-42e8-4ca0-a24e-6d136e21d929.jpg"/></p> -->
+<p align="center"><img src="https://user-images.githubusercontent.com/93809764/173983658-2238a8ef-42e8-4ca0-a24e-6d136e21d929.jpg"/></p> 
 <p align="center"><img src="https://user-images.githubusercontent.com/93809764/174465088-40b6088a-50e9-4a55-8f77-c7388cdccb92.jpg"/></p>
 
 <p align="center">
@@ -12,11 +12,12 @@ Sou estudante Front-end à alguns meses, autodidata, curioso nato e amante por t
 <!-- TOOLS USED -->
 <h2 align="center">Technology Stack</h2>
 <div align="center">
-  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="HTML" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="JS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="JS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="html" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="css" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+          
 </div>
   <br>
   
