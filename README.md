@@ -1,3 +1,4 @@
+/*
 <!-- <p align="center"><img src="https://user-images.githubusercontent.com/93809764/173983658-2238a8ef-42e8-4ca0-a24e-6d136e21d929.jpg"/></p> -->
 <p align="center"><img src="https://user-images.githubusercontent.com/93809764/174465088-40b6088a-50e9-4a55-8f77-c7388cdccb92.jpg"/></p>
 
@@ -6,6 +7,7 @@ Sou estudante Front-end à alguns meses, autodidata, curioso nato e amante por t
 <b>Entusiasta em UX e UI design 🎨, jogador de vôlei 🏐 e não dispenso um bom café ☕ </b> 
 </p>
 
+*/
 
 <!-- TOOLS USED -->
 <h2 align="center">Technology Stack</h2>
