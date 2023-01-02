@@ -34,6 +34,9 @@ Sou estudante Front-end à alguns meses, autodidata, curioso nato e amante por t
 <h2 align="center">Github Stats</h2>  
 <div align="center">
   <a href="https://github.com/RthR2">
+    <!--
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RthR2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RthR2&layout=compact&langs_count=7&theme=tokyonight"/>
+    -->  
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RthR2&langs_count=8"/>
 </div>
