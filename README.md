@@ -38,5 +38,5 @@ Sou estudante Front-end à alguns meses, autodidata, curioso nato e amante por t
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RthR2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     -->  
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RthR2&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RthR2&layout=compact"/>
 </div>
